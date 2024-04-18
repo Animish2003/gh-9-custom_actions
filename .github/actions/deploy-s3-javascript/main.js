@@ -1,9 +1,9 @@
-// import * as core from '@actions/core'
-// import * as exec from '@actions/exec'
-// import * as github from '@actions/github'
+import * as core from '@actions/core'
+import * as exec from '@actions/exec'
+import * as github from '@actions/github'
 
-const core = require('@actions/core')
-const exec = require('@actions/exec')
+// const core = require('@actions/core')
+// const exec = require('@actions/exec')
 
 function run() {
   // 1) Get some input values 
